@@ -8,7 +8,8 @@ Dataset consists of natural images of grocery items. All natural images was take
  Xception, MobileNet and VGG19 were used, with archived accuracy in range 94%-97%.
 
  #  ***Citation*** 
-@inproceedings{klasson2019hierarchical,
+ 
+> @inproceedings{klasson2019hierarchical,
   title={A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels},
   author={Klasson, Marcus and Zhang, Cheng and Kjellstr{\"o}m, Hedvig},
   booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
