@@ -1,5 +1,5 @@
 #  ****Grocery store item classification****
-A model for the recognition of grocery items in store shelves. Image classification is performed using three different types of deep convolutional neural networks in order to classify groceries of fruits, vegetables, and dairy.
+A model for the grocery items recognition in store shelves. Image classification is performed using three different types of deep convolutional neural networks in order to classify groceries of fruits, vegetables, and dairy.
 
  # ****Dataset****
 Dataset consists of natural images of grocery items. All natural images was taken with a smartphone camera in different grocery stores.There are 5125 natural images from 81 different classes of fruits, vegetables, and carton items (e.g. milk, yoghurt). Dataset is split to train, validaton and test. This dataset are from https://github.com/marcusklasson/GroceryStoreDataset
